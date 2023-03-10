@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  Localizable-iOS
+
+  Created by Chhan Sophearith on 10/3/23.
+  
+*/
+// Mark: - First Screen
+"i_am_a_ios_developer" = "ខ្ញុំជាអ្នកអភិវឌ្ឍន៍កម្មវិធី iOS";
